@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: fastapi-container
-        image: akspracticeacr123.azurecr.io/fastapi-aks:v1
+        image: akspracticeacr26abin.azurecr.io/fastapi-aks:v1
 
         ports:
         - containerPort: 8000
